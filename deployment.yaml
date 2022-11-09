@@ -4,7 +4,7 @@ metadata:
   name: devops-training
 spec:
   selector:
-    matchLabels:
+    matchLabel:
       app: devops-training
   template:
     metadata:
